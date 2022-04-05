@@ -19,6 +19,7 @@
         <module>hystrix</module>
         <module>nativeconfigserver</module>
         <module>nativeconfigclient</module>
+        <module>configserver</module>
     </modules>
 
     <parent>

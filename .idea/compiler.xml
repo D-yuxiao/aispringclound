@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="comsumer" />
+        <module name="configserver" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
         <module name="feign" />
@@ -21,6 +22,7 @@
     <bytecodeTargetLevel>
       <module name="aispringclound" target="1.8" />
       <module name="comsumer" target="1.8" />
+      <module name="configserver" target="1.8" />
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="feign" target="1.8" />
