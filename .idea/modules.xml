@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aispringclound.iml" filepath="$PROJECT_DIR$/.idea/aispringclound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comsumer/comsumer.iml" filepath="$PROJECT_DIR$/comsumer/comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeconfigclient/nativeconfigclient.iml" filepath="$PROJECT_DIR$/nativeconfigclient/nativeconfigclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeconfigserver/nativeconfigserver.iml" filepath="$PROJECT_DIR$/nativeconfigserver/nativeconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resttemplate/resttemplate.iml" filepath="$PROJECT_DIR$/resttemplate/resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
